@@ -20,8 +20,8 @@ const port = 3000;  // Define the port where the server will run
 // Create MySQL connection
 const connection = mysql.createConnection({
     host: 'localhost',        // MySQL server host
-    user: 'timmothy',             // Your MySQL username
-    password: '@Ubuntu1289',             // Your MySQL password
+    user: 'tUSERNAME',             // Your MySQL username
+    password: 'YOUR_PASSWORD',             // Your MySQL password
     database: 'sensor_data'          // The database to use
   });
 
