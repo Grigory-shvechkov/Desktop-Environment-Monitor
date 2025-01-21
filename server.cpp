@@ -35,7 +35,7 @@ void client_handler(int client_socket)
         sql::mysql::MySQL_Driver *driver = sql::mysql::get_driver_instance();
 
         // Create a connection to the MySQL database
-        sql::Connection *con = driver->connect("tcp://127.0.0.1:3306", "timmothy", "@Ubuntu1289");
+        sql::Connection *con = driver->connect("tcp://127.0.0.1:3306", "USERNAME", "YOUR_PASSWORD"); 
 
         // Select the database
         con->setSchema("sensor_data");
