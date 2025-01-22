@@ -1,4 +1,4 @@
-# Indoor Environment Monitor
+# Indoor weather Monitor
 
 This project is designed to monitor and display environmental data using a **DHT11 Temperature and Humidity Sensor**. The system consists of two main components: a **Client** and a **Server**. 
 
