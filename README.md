@@ -2,7 +2,7 @@
 
 This project is designed to monitor and display environmental data using a **DHT11 Temperature and Humidity Sensor**. The system consists of two main components: a **Client** and a **Server**. 
 
-![]([https://github.com/Your_Repository_Name/Your_GIF_Name.gif](https://github.com/Grigory-shvechkov/Indoor-weather-Monitor/blob/main/demo.gif))
+![](https://raw.githubusercontent.com/Grigory-shvechkov/Indoor-weather-Monitor/refs/heads/main/demo.gif)
 
 ## Overview
 
